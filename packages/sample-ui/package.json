@@ -1,0 +1,17 @@
+{
+  "name": "@repo/sample-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-plus": "^2.7.8",
+    "vue": "^3.4.34"
+  }
+}

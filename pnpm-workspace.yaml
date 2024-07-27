@@ -1,0 +1,6 @@
+packages:
+  # 放置各种项目
+  - "apps/*"
+  # 放置公共组件
+  - "packages/*"
+  - '!**/test/**'
