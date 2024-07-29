@@ -1,0 +1,7 @@
+pnpm-lock.yaml
+dist
+.output
+.output_csr
+.nuxt
+.clinic
+node_modules
